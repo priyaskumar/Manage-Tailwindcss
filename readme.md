@@ -1,12 +1,12 @@
-# _TAILWIND-CSS_
+# Tailwind-CSS
 
 - A utility-first, low level CSS framework for rapidly building custom user interfaces. 
 
-- highly customizable
+- Highly customizable
 
-- doesn’t impose design specification
+- Doesn’t impose design specification
 
-- takes a ‘raw’ CSS file, processes this CSS file over a configuration file, and produces an output.
+- Takes a ‘raw’ CSS file, processes this CSS file over a configuration file, and produces an output.
 
 # Why Tailwind CSS?
 
@@ -33,17 +33,17 @@
 
 - allows you to customize your designs in a more unique way
 
-# _THE LANDING PAGE_
+# The Landing Page
 
-This is the landing page designed 
+This is the demo landing page named 'manage' designed to understand the fundamental utility classes of Tailwind-CSS following the [Tutorial by Traversy Media](https://www.youtube.com/watch?v=dFgzHOX84xQ&t=312s)
 
 <img src="img/LandingPg.png">
 
-# _NOTES_
+# Notes
 
 - [Setting up the project](https://github.com/priyaskumar/Tailwind-CSS-Tutorial/blob/master/%23Notes/01.%20Setting%20up%20the%20project.md)
 
-# _REFERENCES_
+# References
 
 - [Tailwind-CSS documentation](https://tailwindcss.com/)
 
