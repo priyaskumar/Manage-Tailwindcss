@@ -1,0 +1,20 @@
+{
+  "name": "tailwind-css-tutorial",
+  "version": "1.0.0",
+  "description": "- Tailwind CSS is a utility-first, low level CSS framework for rapidly building custom user interfaces.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./input.css -o ./css/main.css",
+    "watch": "tailwindcss -i ./input.css -o ./css/main.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-ps:priyaskumar/Tailwind-CSS-Tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.1.6"
+  }
+}
