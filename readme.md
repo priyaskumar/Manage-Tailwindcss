@@ -41,7 +41,7 @@ This is the landing page designed
 
 # _NOTES_
 
-- [Setting up the project]()
+- [Setting up the project](https://github.com/priyaskumar/Tailwind-CSS-Tutorial/blob/master/%23Notes/01.%20Setting%20up%20the%20project.md)
 
 # _REFERENCES_
 
